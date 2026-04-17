@@ -1,0 +1,7 @@
+Flask
+opencv-python
+face-recognition
+SQLAlchemy
+numpy
+scikit-learn
+pandas
